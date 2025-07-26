@@ -5,7 +5,7 @@
   "ServiceDirectory": "NA",
   "Group": "com.microsoft.cognitiveservices.speech",
   "SdkType": "client",
-  "IsNewSdk": false,
+  "IsNewSdk": true,
   "ArtifactName": "client-sdk",
   "Namespaces": [
     "com.microsoft.cognitiveservices.speech",
